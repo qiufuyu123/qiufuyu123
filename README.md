@@ -46,6 +46,13 @@
 
 ## 🚀 Projects
 
+**AI Based ASD Children Training Research** *(2024)*  
+- Use LLM models to generate common living scenes including dialogs and long conversations ( such as dialogs while shopping, taking buses, etc)  
+- Make the generated contents as a form of multiple-choice-questions, and assemble them into a mobile program.
+- Use the program to train ASD children's reaction to these daily scenes, hoping to help them get involved into the society.
+- participate CTB competition
+- Original Essay: [Essay PDF](https://github.com/qiufuyu123/qiufuyu123/blob/main/Chatify%20Essay%20.pdf)
+
 **Casio Calculator Reverse Engineering** *(2023)*  
 - 🔍 Discovered and exploited a **stack overflow vulnerability** in Casio fx-991CNX, enabling execution of arbitrary code (using the skills called ROP, Return-Oriented-Programing).  
 - 📝 Published findings on Zhihu and GitHub, fostering a research community.  
@@ -55,8 +62,7 @@
 - - [Part 3](https://zhuanlan.zhihu.com/p/657962148)
 - Github Repository: [Casio Calculator Reverse Engineering](https://github.com/Physics365/991CN-X-CW-Decompilation)
 - Simulator Repository: [Casio Calculator Simulator](https://github.com/qiufuyu123/CasioEmuNeo)
-![](./imagerop1.png)
-
+![](./imagerop1.png)  
 **Custom x86-64 Operating System** *(2022)*  
 - 🖥 Developed from scratch, implementing **VMM**, **VFS**, and multitasking in C.  
 - Github Repository: [QNOS](https://github.com/qiufuyu123/qnos)  
@@ -69,8 +75,7 @@
 **AI Based MBTI personality detector** *(2023)*  
 - Use *BERT* language classification network to train a model that can classify users' MBTI personality based on their chatting history.  
 - It's a work for [XAcademy](https://www.xacademy.cc/) Hackthon  
-- Github Repository: [Chatify](https://github.com/qiufuyu123/Chatify)  
-
+- Github Repository: [Chatify](https://github.com/qiufuyu123/Chatify)
 
 **Quick-C Compiler** *(2025)*  
 - ⚡ Building a **C-like language compiler** entirely in C, focusing on speed and minimal dependencies.
