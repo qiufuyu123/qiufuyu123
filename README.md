@@ -32,7 +32,7 @@
 ![](./image.png) ![](./image2.png)
 - 👓 Built a **lens visualization tool** simulating real-world indoor vision through selected lens models, improving customer experience.
 ![](./lensvisual.gif)  
-- Made a software that can measure people's eyes' parameters from on picture. Based on *YOLOV11* object detection and segmentation to detect glasses and key points on people's face, using a *Detph Camera* to calculate parameters.  
+- Made a software that can measure people's eyes' parameters from only *one* picture. Based on *YOLOV11* object detection and segmentation to detect glasses and key points on people's face, using a *Detph Camera* to calculate parameters.  
 -The algorithm is *patented* in China. (currently in progress)  
 ![](./stopto1.png)
 ![](./stopto2.png)  
