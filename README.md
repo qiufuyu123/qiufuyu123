@@ -46,6 +46,12 @@
 
 ## 🚀 Projects
 
+**A Simple Demoscene** *(2025)*  
+- Make a time demoscene program in less than *4k* bytes size  
+- With animated procedural 3D objects, and procedural music  
+- Remember to open your speaker when watching the video below  
+- [DemoScene Video](https://github.com/user-attachments/assets/6e8abbce-9250-411b-b87a-afb678cf5903)
+
 **AI Based ASD Children Training Research** *(2024)*  
 - Use LLM models to generate common living scenes including dialogs and long conversations ( such as dialogs while shopping, taking buses, etc)  
 - Make the generated contents as a form of multiple-choice-questions, and assemble them into a mobile program.
