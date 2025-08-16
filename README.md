@@ -15,10 +15,7 @@
 - **Frameworks & Tools:** Node.js, MySQL, Nginx, React, Electron, Qt, Avalonia  
 - **Development Areas:** Backend services, GUI frameworks, Embedded systems, Reverse engineering  
 - **Operating Systems:** Windows, Linux (mainly Ubuntu)  
-- **Version Control:** Git, GitHub  
 - **Databases:** MySQL, SQLite, MongoDB  
-
-
 
 ---
 
