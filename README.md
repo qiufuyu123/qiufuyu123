@@ -35,7 +35,7 @@
 ![](./stopto2.png)
 
 **Software Engineer (Part-time)** — *Olinteach* | Shanghai, China *(Feb 2025 – April 2025)*  
-- 🌐 Designed and implemented an **online foreign teacher booking platform**, help with my colleague integrating scheduling, authentication, and payment.
+- 🌐 Designed and implemented an **online foreign teacher booking platform**, work with my colleague integrating scheduling, authentication, and payment.
 
 **Volunteer Developer** — *Consoul-in Mental Health Initiative* | *(2024)*  
 - 💬 Built an online **therapist–patient communication platform** supporting remote mental health counseling.  
